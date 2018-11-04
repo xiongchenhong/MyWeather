@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+
+    <string name="change_city">切换城市</string>
+    <string name="air_quality">空气质量</string>
+    <string name="aqi_level">AQI指数</string>
+    <string name="pm2_5_level">PM2.5指数</string>
+    <string name="forecast">预报</string>
+    <string name="life_suggestion">生活建议</string>
+</resources>
